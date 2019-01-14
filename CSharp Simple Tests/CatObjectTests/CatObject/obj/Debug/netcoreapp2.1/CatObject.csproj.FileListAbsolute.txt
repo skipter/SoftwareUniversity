@@ -1,0 +1,11 @@
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\bin\Debug\netcoreapp2.1\CatObject.deps.json
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\bin\Debug\netcoreapp2.1\CatObject.runtimeconfig.json
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\bin\Debug\netcoreapp2.1\CatObject.runtimeconfig.dev.json
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\bin\Debug\netcoreapp2.1\CatObject.dll
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\bin\Debug\netcoreapp2.1\CatObject.pdb
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\obj\Debug\netcoreapp2.1\CatObject.csprojAssemblyReference.cache
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\obj\Debug\netcoreapp2.1\CatObject.csproj.CoreCompileInputs.cache
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\obj\Debug\netcoreapp2.1\CatObject.AssemblyInfoInputs.cache
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\obj\Debug\netcoreapp2.1\CatObject.AssemblyInfo.cs
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\obj\Debug\netcoreapp2.1\CatObject.dll
+C:\Users\Boris\Desktop\SoftwareUniversity\CSharp Simple Tests\CatObjectTests\CatObject\obj\Debug\netcoreapp2.1\CatObject.pdb
